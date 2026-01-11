@@ -16,7 +16,8 @@ https://github.com/TordVoje/WeDeliverTech-dashboard
 - Integrated REST APIs with a relational database
 - Focused on clean structure and maintainable code
 
-### Exam Project
+### Full-Stack Ecommerce Project
+https://github.com/TordVoje/fullstack-ecommerce-platform
 - Built under time constraints in an exam setting
 - Demonstrates problem-solving and independent development skills
 
