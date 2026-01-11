@@ -11,6 +11,7 @@ my ability to design, build, and structure real-world applications.
 ## Featured Projects
 
 ### Full-Stack Semester Project
+https://github.com/TordVoje/WeDeliverTech-dashboard
 - Designed and implemented an end-to-end full-stack web application
 - Integrated REST APIs with a relational database
 - Focused on clean structure and maintainable code
