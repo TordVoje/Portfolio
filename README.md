@@ -22,6 +22,7 @@ https://github.com/TordVoje/fullstack-ecommerce-platform
 - Demonstrates problem-solving and independent development skills
 
 ### REST API Service
+https://github.com/TordVoje/todo-rest-api
 - Implemented CRUD operations following RESTful principles
 - Structured routes and validated input data
 
