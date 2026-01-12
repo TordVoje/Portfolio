@@ -27,6 +27,7 @@ https://github.com/TordVoje/todo-rest-api
 - Structured routes and validated input data
 
 ### Database Project
+https://github.com/TordVoje/animal-adoption-database-app
 - Designed relational database schemas
 - Implemented queries and relationships between entities
 
