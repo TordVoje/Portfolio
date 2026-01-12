@@ -32,6 +32,7 @@ https://github.com/TordVoje/animal-adoption-database-app
 - Implemented queries and relationships between entities
 
 ### Frontend JavaScript Demo
+https://github.com/TordVoje/frontend-interaction-assignment
 - Manipulated the DOM using Vanilla JavaScript and jQuery
 - Integrated external APIs
 - Implemented basic accessibility features
